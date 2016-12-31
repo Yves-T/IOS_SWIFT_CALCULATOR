@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  RetroCalculator
-//
-//  Created by Yves Talboom on 30/12/2016.
-//  Copyright © 2016 Yves Talboom. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
